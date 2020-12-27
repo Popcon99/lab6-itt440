@@ -2,7 +2,7 @@ import sys
 import socket
 
 s = socket.socket()
-host = '192.168.1.7'
+host = '192.168.78.7'
 port = 8888
 
 print("Waiting for connection...\n")
